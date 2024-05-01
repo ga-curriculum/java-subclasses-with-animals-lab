@@ -2,7 +2,9 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, you will be using your knowledge of classes to build an Animal class, complete with properties, getters, and setters. After completing the class, you'll then create subclasses of Animal called Mammal and Reptile. Finally, you'll create at least one subclass of Mammal and one subclass of Reptile, making them whatever animals you want.
+
+Each subclass should have some unique property that differentiates it from its parent class. For instance, a reptile could have a Boolean to determine if it has a shell, or a snake could have a Boolean to determine if it is poisonous.
 
 ## Prerequisites
 
@@ -12,32 +14,10 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 Estimated time to complete core lab exercise: **tktk min**
 
-## Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
-
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
-
-## Level Up
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
-
-## Solution code
-
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
