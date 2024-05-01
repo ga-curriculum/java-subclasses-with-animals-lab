@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/subclasses-animals-lab.png)
 
 ## About
 
@@ -8,11 +8,11 @@ Each subclass should have some unique property that differentiates it from its p
 
 ## Prerequisites
 
-- tktk
+- Java Subclasses Module
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **45 min**
 
 ## Content
 
@@ -20,8 +20,6 @@ Estimated time to complete core lab exercise: **tktk min**
 - [Exercise](./exercise/README.md)
 
 ## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Exercise](./assets/hero.png)
+# ![[tktk Module Name] - Exercise](./assets/subclasses-animals-exercise.png)
 
 ## Exercise
 
