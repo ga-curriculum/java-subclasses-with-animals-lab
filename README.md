@@ -19,6 +19,10 @@ Estimated time to complete core lab exercise: **45 min**
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
+## Solution code
+
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/subclasses-with-animals-lab-solution)
+
 ## Internal resources
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
