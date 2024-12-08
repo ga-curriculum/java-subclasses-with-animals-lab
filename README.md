@@ -24,7 +24,7 @@ Estimated time to complete core lab exercise: **45 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/subclasses-with-animals-lab-solution)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals-lab-solution)
 
 ### Course landing pages
 
