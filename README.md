@@ -1,32 +1,45 @@
-# ![[tktk Module Name]](./assets/subclasses-animals-lab.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Subclasses with Animals Lab</span>
+</h1>
 
 ## About
 
-In this lab, you will be using your knowledge of classes to build an Animal class, complete with properties, getters, and setters. After completing the class, you'll then create subclasses of Animal called Mammal and Reptile. Finally, you'll create at least one subclass of Mammal and one subclass of Reptile, making them whatever animals you want.
-
-Each subclass should have some unique property that differentiates it from its parent class. For instance, a reptile could have a Boolean to determine if it has a shell, or a snake could have a Boolean to determine if it is poisonous.
-
-## Prerequisites
-
-- Java Subclasses Module
-
-## Time to complete
-
-Estimated time to complete core lab exercise: **45 min**
+In this lab, you'll use your knowledge of classes to build an `Animal` class, complete with properties, getters, and setters. After completing the `Animal` class, you'll create a series of subclasses with it.
 
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
-## Solution code
+## Internal
+
+### Prerequisites
+
+- Java Subclasses
+
+### Time to complete
+
+Estimated time to complete core lab exercise: **45 min**
+
+### Solution code
 
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/subclasses-with-animals-lab-solution)
 
-## Internal resources
+### Course landing pages
+
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals/canvas-landing-pages/jsc.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals/canvas-landing-pages/fallback.html)
+
+### Resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**

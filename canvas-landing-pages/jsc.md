@@ -1,11 +1,11 @@
-# ![[tktk Module Name]](../assets/subclasses-animals-lab.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Subclasses with Animals Lab</span>
+</h1>
 
 ## About
 
-In this lab, you will be using your knowledge of classes to build an Animal class, complete with properties, getters, and setters. After completing the class, you'll then create subclasses of Animal called Mammal and Reptile. Finally, you'll create at least one subclass of Mammal and one subclass of Reptile, making them whatever animals you want.
-
-Each subclass should have some unique property that differentiates it from its parent class. For instance, a reptile could have a Boolean to determine if it has a shell, or a snake could have a Boolean to determine if it is poisonous.
-
+In this lab, you'll use your knowledge of classes to build an `Animal` class, complete with properties, getters, and setters. After completing the `Animal` class, you'll create a series of subclasses with it.
 
 ## Content
 
