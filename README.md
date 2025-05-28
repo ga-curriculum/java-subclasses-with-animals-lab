@@ -28,9 +28,9 @@ Estimated time to complete core lab exercise: **45 min**
 
 ### Course landing pages
 
-- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals/canvas-landing-pages/jcd.html)
-- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals/canvas-landing-pages/jsc.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals/canvas-landing-pages/fallback.html)
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals-lab/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals-lab/canvas-landing-pages/jsc.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
